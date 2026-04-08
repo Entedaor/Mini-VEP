@@ -20,8 +20,8 @@ pip install biopython
 ```
 3. Clone the repository:
 ```bash
-git clone https://github.com/Entedaor/Mini-cep/Mini-vep.py
-cd mini_vep
+git clone https://github.com/Entedaor/Mini-VEP.git
+cd Mini_VEP
 ```
 
 ## 🔹 Usage
