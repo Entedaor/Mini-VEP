@@ -20,7 +20,7 @@ pip install biopython
 ```
 3. Clone the repository:
 ```bash
-git clone https://github.com/your-username/mini_vep.git
+git clone https://github.com/Entedaor/Mini-cep/Mini-vep.py
 cd mini_vep
 ```
 
@@ -30,7 +30,7 @@ cd mini_vep
 ```bash
 python mini_vep.py
 ```
-3.Follow the interactive menu:
+3. Follow the interactive menu:
 ```bash
 MINI VEP - MAIN MENU
 1. Substitution (Point Mutation)
