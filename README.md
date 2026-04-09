@@ -49,4 +49,13 @@ Mutated Protein:
 M A [5:T→I] K T H E P R O T E I N
 
 [5:T→I] shows the amino acid change at position 5 (Threonine → Isoleucine).
+
+## 🔹 Example Data
+
+The repository includes two example CDS sequences to test Mini VEP:
+
+- `example_data/E_coli_lacZ_example.fna` — LacZ gene from *Escherichia coli*
+- `example_data/H_sapiens_HBB_example.fna` — Beta-globin gene from *Homo sapiens*
+
+You can use these files with Mini VEP to try point mutations, insertions, and deletions.
 Frameshift or nonsense mutations are also highlighted automatically.
